@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ryankinnard
-- 👀 Software engineering and product managment opportunities 
+- 👀 Seeking software engineering and product managment opportunities 
 - 🌱 I’m currently interning at FedEx Services
-- 💞️ I’m looking to collaborate on ...
-- 📫 
+- 📫 ryan.cb.kinnard@gmail.com | [LinkedIn](www.linkedin.com/in/ryankinnard)
 
 <!---
 ryankinnard/ryankinnard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
