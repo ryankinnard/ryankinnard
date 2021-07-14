@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ryankinnard
-- 👀 Seeking software engineering and product managment opportunities 
 - 🌱 I’m currently interning at FedEx Services
 - 📫 ryan.cb.kinnard@gmail.com | [LinkedIn](www.linkedin.com/in/ryankinnard)
 
