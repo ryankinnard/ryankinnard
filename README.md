@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ryankinnard
-- 🌱 I’m currently interning at FedEx Services
 - 📫 ryan.cb.kinnard@gmail.com | [LinkedIn](https://linkedin.com/in/ryankinnard)
 
 <!---
